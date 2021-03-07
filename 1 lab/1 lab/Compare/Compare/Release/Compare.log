@@ -1,0 +1,23 @@
+﻿  Compare.cpp
+  Создание кода
+  0 of 152 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Compare.vcxproj -> C:\Users\Андрей\source\repos\Compare\Release\Compare.exe
+  Running Tests...
+  Test 'input1 not provided' successful
+  Test 'input2 not provided' successful
+  Test 'both input file not provided' successful
+  Test 'it doesn't work without args' successful
+  Files are equal 
+  
+  1)Test 'equal file' successful
+  Files are equal 
+  
+  2)Test 'not equal file' successful
+  Files are equal 
+  
+  3)Test 'empty files' successful
+  Tests passed: 7/7
+  All tests successful
